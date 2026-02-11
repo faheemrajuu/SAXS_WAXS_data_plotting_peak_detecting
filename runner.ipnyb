@@ -1,0 +1,12 @@
+import importlib, plot_saxs_waxs as m
+importlib.reload(m)
+
+import importlib
+import plot_saxs_waxs as m
+importlib.reload(m)
+
+m.SAMPLE = "SampleName"
+m.SHOW_PEAKS = False
+m.SAVE_IMAGE = False
+
+m.plot_one_sample_split();
