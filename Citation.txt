@@ -1,0 +1,20 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Data Plotting and Peak Diagnostics for 1D SAXS/WAXS Data"
+authors:
+  - family-names: Hassan
+    given-names: Muhammad Faheem
+    orcid: "https://orcid.org/0000-0002-0829-466X"
+year: 2026
+license: MIT
+repository-code: ""
+date first release: 02/11/2026
+keywords:
+  - SAXS
+  - WAXS
+  - scattering
+  - peak detection
+  - plotly
+  - scipy
+acknowledgements: "Development of this software was supported by research funding from Prof. Mu-Ping Nieh’s lab (University of Connecticut)."
